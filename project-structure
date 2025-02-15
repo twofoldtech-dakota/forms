@@ -1,0 +1,35 @@
+app/
+├── (marketing)/
+│   └── page.js
+├── layout.js
+├── not-found.js
+├── error.js
+├── loading.js
+├── globals.css
+components/
+├── ui/
+│   ├── button/
+│   │   ├── button.js
+│   │   └── button.module.styl
+│   └── card/
+│       ├── card.js
+│       └── card.module.styl
+├── marketing/
+│   ├── hero-section/
+│   │   ├── hero-section.js
+│   │   └── hero-section.module.styl
+│   ├── features-section/
+│   │   ├── features-section.js
+│   │   └── features-section.module.styl
+│   ├── testimonials-section/
+│   │   ├── testimonials-section.js
+│   │   └── testimonials-section.module.styl
+│   └── newsletter-section/
+│       ├── newsletter-section.js
+│       └── newsletter-section.module.styl
+lib/
+├── fonts.js
+├── metadata.js
+└── utils.js
+styles/
+└── variables.styl 
